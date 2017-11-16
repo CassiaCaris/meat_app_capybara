@@ -1,6 +1,6 @@
 teste_parceria_capybara_web
 
-Realizando a automação de Web utilizando Capybara (busca simples)
+Realizando a automação de Web utilizando Capybara + Page Object com base na automação anterior (meat_app_parceria)
 
 E-mail enviado com a Solitação da Atividade.
 
