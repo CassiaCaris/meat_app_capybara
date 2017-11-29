@@ -11,6 +11,10 @@ Quando("pesquisa o seu restaurente preferido na tela com a listagem dos restaura
 	@consulta.pesquisa
 end
 
-Entao("estara visualizando o cardapio online do Resturante Preferido") do 
+Entao("visualizando o Perfil do Resturante Preferido") do 
    @consulta.valida
+end
+
+Entao("valida o cardapio on-line") do
+  @consulta.confere_cardapio
 end
